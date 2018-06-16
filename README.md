@@ -1,2 +1,2 @@
 # keyExchange
-Basic Diffie-Hellman key exchange protocl
+Basic Diffie-Hellman key exchange protocol
